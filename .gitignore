@@ -10,3 +10,4 @@ src/Models/ScienceBook.php
 src/Models/Customer.php
 views/science_book/
 views/customer/
+/config/config.php
